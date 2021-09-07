@@ -1,7 +1,7 @@
 star-wars-app
 ==============
 
-
+[![Java CI with Maven](https://github.com/GeraldMatarrita/star-wars-app/actions/workflows/maven.yml/badge.svg)](https://github.com/GeraldMatarrita/star-wars-app/actions/workflows/maven.yml)
 
 =======
 
