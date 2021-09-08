@@ -12,6 +12,7 @@ public class App
         CommandLine cmd = new CommandLine(new MainCommand());
         cmd.setExecutionStrategy(new CommandLine.RunAll()); // default is RunLast
         cmd.execute(args);
+        System.exit(0); //Terminar el programa en consola
 
         if (args.length == 0) { cmd.usage(System.out); }
     }
