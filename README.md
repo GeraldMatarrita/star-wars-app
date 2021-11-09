@@ -18,3 +18,7 @@ mvn clean install
 mvn exec:java -Dexec.args=”people 1”
 mvn exec:java -Dexec.args=”planet 1”
 ```
+
+## Evaluacion
+
+Nota: 10
